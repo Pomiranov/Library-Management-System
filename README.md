@@ -1,0 +1,3 @@
+<br><h1>Library Management System</h1></br>
+<br><i>In this Library Management System project, you can enter the record of new books and retrieve the details of books available in the library. You can issue the books to the students and maintain their records. Late fine is charged for students who returns the issued books after the due date.Only one book is issued to students. New book is not issued to students those not returned the last book.</br></i>
+<br><center><img src="https://sun9-61.userapi.com/s/v1/if2/ff9e9mg9eEf6K_CcOJdxz7dGEED9Uq9iv3akNWDGYogxTWI7dqwrVaO2B0Ww9iis7OR0hMIZxtMvXUMAjGlP1T8A.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,1600x900&from=bu&cs=1600x0"></br></center>
